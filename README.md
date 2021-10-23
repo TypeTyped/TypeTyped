@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Typed
+- 👀 I’m interested in coding, minecraft and discord
+- 🌱 I’m currently learning discord.py and discord.js
+- 💞️ I’m looking to collaborate on a discord bot called discord defender
+- 📫 Contact me at Typed#0001 On discord!
